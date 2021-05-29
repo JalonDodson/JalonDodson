@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 <h3 align="center">Full-Stack Software Engineer specializing in web and mobile development. I have a passion for helping others, learning, and experiencing personal and professional growth.</h3>
-<p align="right">
+<p align="center">
 <a href="https://twitter.com/jalondodson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jalondodson" height="30" width="40" />
  </a>
 <a href="https://linkedin.com/in/jalon-dodson" target="blank"> 
